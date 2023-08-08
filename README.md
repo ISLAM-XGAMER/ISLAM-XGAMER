@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Islam Hamdy</h1>
 <h2 align="center">| Cyber security student 🐱‍💻|</h2>
 <img align="center"  width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg1Z2lpaDV6bmNrMHF6dGpwYjJrZ2MwZjZsaG1idm5uaXV2b2IzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjtaGSNSt1Nfb5QQS6/giphy.gif">
+<hr>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=islam-xgamer" alt="islam-xgamer" /></a> </p>
-
+- 🔭 My projects [Port2Email](https://github.com/ISLAM-XGAMER/Port2Email) , [AnonFTP](https://github.com/ISLAM-XGAMER/AnonFTP)
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 📫 How to reach me **islmhmdymhmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
